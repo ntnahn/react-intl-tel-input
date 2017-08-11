@@ -1,0 +1,220 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-intl-tel-input",
+        "scope": null,
+        "escapedName": "react-intl-tel-input",
+        "name": "react-intl-tel-input",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/holla/HollaFrontend"
+    ]
+  ],
+  "_from": "react-intl-tel-input@latest",
+  "_id": "react-intl-tel-input@4.2.0",
+  "_inCache": true,
+  "_location": "/react-intl-tel-input",
+  "_nodeVersion": "7.2.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-intl-tel-input-4.2.0.tgz_1500986021059_0.7447419429663569"
+  },
+  "_npmUser": {
+    "name": "patw",
+    "email": "patw.hi@gmail.com"
+  },
+  "_npmVersion": "5.1.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-intl-tel-input",
+    "scope": null,
+    "escapedName": "react-intl-tel-input",
+    "name": "react-intl-tel-input",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-intl-tel-input/-/react-intl-tel-input-4.2.0.tgz",
+  "_shasum": "0d05afa31f6859c26d6e0c89588c1c127a9023a3",
+  "_shrinkwrap": null,
+  "_spec": "react-intl-tel-input",
+  "_where": "/holla/HollaFrontend",
+  "author": {
+    "name": "patw"
+  },
+  "babel": {
+    "presets": [
+      "react-app"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/patw0929/react-intl-tel-input/issues"
+  },
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "react-style-proptype": "^3.0.0",
+    "underscore.deferred": "^0.4.0"
+  },
+  "description": "Telephone input component. Rewrite intl-tel-input in React.js.",
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-eslint": "^7.1.1",
+    "babel-jest": "^18.0.0",
+    "babel-loader": "6.2.10",
+    "babel-plugin-transform-class-properties": "^6.19.0",
+    "babel-plugin-transform-object-rest-spread": "^6.20.2",
+    "babel-plugin-transform-react-constant-elements": "^6.9.1",
+    "babel-plugin-transform-regenerator": "^6.21.0",
+    "babel-plugin-transform-runtime": "^6.15.0",
+    "babel-preset-latest": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-react-app": "^2.0.1",
+    "babel-runtime": "^6.20.0",
+    "case-sensitive-paths-webpack-plugin": "^1.1.4",
+    "chalk": "1.1.3",
+    "copy-webpack-plugin": "^4.0.1",
+    "coveralls": "^2.11.9",
+    "css-loader": "^0.26.1",
+    "css-modules-require-hook": "^4.0.1",
+    "detect-port": "^1.0.7",
+    "dotenv": "^4.0.0",
+    "enzyme": "^2.7.0",
+    "eslint": "^3.13.0",
+    "eslint-config-airbnb": "~14.0.0",
+    "eslint-config-airbnb-base": "~11.0.1",
+    "eslint-loader": "1.6.1",
+    "eslint-plugin-flowtype": "^2.29.2",
+    "eslint-plugin-import": "^2.0.1",
+    "eslint-plugin-jsx-a11y": "^3.0.2",
+    "eslint-plugin-react": "^6.9.0",
+    "eslint-plugin-security": "^1.2.0",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "file-loader": "^0.9.0",
+    "filesize": "^3.3.0",
+    "gh-pages": "^0.12.0",
+    "gzip-size": "3.0.0",
+    "html-webpack-plugin": "2.26.0",
+    "identity-obj-proxy": "^3.0.0",
+    "image-webpack-loader": "^1.8.0",
+    "jasmine-reporters": "^2.2.0",
+    "jest": "^18.1.0",
+    "jsdom": "^9.2.1",
+    "lint-staged": "^3.2.6",
+    "node-sass": "^4.2.0",
+    "pre-commit": "^1.2.2",
+    "react-addons-test-utils": "^15.4.2",
+    "react-dev-utils": "^0.4.2",
+    "react-hot-loader": "^1.3.0",
+    "recursive-readdir": "2.1.0",
+    "rimraf": "2.5.4",
+    "sass-loader": "^4.1.1",
+    "serve-static": "^1.11.1",
+    "sinon": "^1.17.4",
+    "style-loader": "0.13.1",
+    "url-loader": "~0.5.7",
+    "webpack": "beta",
+    "webpack-dev-server": "1.16.2",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-vf/oTZQ3XWFuOtZb5Ohlq97l/yjhga0PdPGV3FQBlB/l5JL2R/ikpAcXj0eFAF76R04ulzz/bf/RGNsxgrvReQ==",
+    "shasum": "0d05afa31f6859c26d6e0c89588c1c127a9023a3",
+    "tarball": "https://registry.npmjs.org/react-intl-tel-input/-/react-intl-tel-input-4.2.0.tgz"
+  },
+  "engines": {
+    "node": ">=6.2.2"
+  },
+  "eslintConfig": {
+    "extends": "./config/eslint.js"
+  },
+  "gitHead": "0a152d6c597111cd2c79d8411d4164730c77c6b2",
+  "homepage": "https://github.com/patw0929/react-intl-tel-input#readme",
+  "jest": {
+    "collectCoverageFrom": [
+      "src/**/*.js",
+      "!**/__mocks__/**",
+      "!**/__tests__/**",
+      "!src/example.js",
+      "!src/libphonenumber.js"
+    ],
+    "setupFiles": [
+      "<rootDir>/config/polyfills.js",
+      "<rootDir>/config/jest/setup.js"
+    ],
+    "setupTestFrameworkScriptFile": "<rootDir>/config/jest/setupTestFramework.js",
+    "testPathIgnorePatterns": [
+      "<rootDir>[/\\\\](build|docs|node_modules)[/\\\\]"
+    ],
+    "testEnvironment": "jsdom",
+    "testURL": "http://localhost",
+    "transform": {
+      "^.+\\.(js|jsx)$": "<rootDir>/config/jest/transform.js",
+      "^.+\\.(scss|css)$": "<rootDir>/config/jest/cssTransform.js",
+      "^(?!.*\\.(js|jsx|css|scss|json)$)": "<rootDir>/config/jest/fileTransform.js"
+    },
+    "transformIgnorePatterns": [
+      "[/\\\\]node_modules[/\\\\].+\\.(js|jsx)$"
+    ],
+    "testRegex": "/__tests__/.*\\.(test|spec)\\.js$"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "tel",
+    "telephone",
+    "intl-tel-input",
+    "international-telephone-input",
+    "phonenumber"
+  ],
+  "license": "MIT",
+  "lint-staged": {
+    "*.js": [
+      "jest --findRelatedTests",
+      "eslint --max-warnings 0"
+    ]
+  },
+  "main": "dist/main.js",
+  "maintainers": [
+    {
+      "name": "patw",
+      "email": "patw.hi@gmail.com"
+    }
+  ],
+  "name": "react-intl-tel-input",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "prop-types": "~15.5.8"
+  },
+  "pre-commit": [
+    "lint-staged",
+    "lint-pass"
+  ],
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patw0929/react-intl-tel-input.git"
+  },
+  "scripts": {
+    "build": "node scripts/build.js",
+    "coverage": "yarn run test -- --coverage",
+    "coveralls": "NODE_ENV=development cat coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js",
+    "deploy": "gh-pages -d example",
+    "eslint": "eslint src",
+    "lint": "yarn run eslint",
+    "lint-pass": "echo '\\033[4;32m♡' No any errors! Go go go! ♡' \\033[0m'",
+    "lint-staged": "lint-staged",
+    "start": "node scripts/start.js",
+    "test": "TZ=Asia/Taipei node scripts/test.js --env=jsdom"
+  },
+  "version": "4.2.0"
+}
